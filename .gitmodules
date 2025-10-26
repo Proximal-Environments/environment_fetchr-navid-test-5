@@ -1,6 +1,6 @@
 [submodule "workspace"]
 	path = workspace
-	url = https://github.com/Proximal-Environments/fetchr_fetchr-navid-test-2_workspace.git
+	url = https://github.com/Proximal-Environments/-github.com-Proximal-Environments-fetchr_fetchr-navid-test-5_workspace.git
 	branch = main
 [submodule "taskrunner"]
 	path = taskrunner
